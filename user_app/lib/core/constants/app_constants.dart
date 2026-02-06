@@ -12,8 +12,7 @@ class AppConstants {
   // Example: 'https://abc123.ngrok.io/api'
   // ============================================
   
-  static const String baseUrl = 'http://localhost:3001/api';
-  
+  static const String baseUrl = 'https://marketplace-system-1ie3.onrender.com/api';  
   // ⚠️ CHANGE THIS BEFORE BUILDING FOR PRODUCTION ⚠️
   // Uncomment one of these based on your setup:
   
