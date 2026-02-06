@@ -1,4 +1,4 @@
-# 🚀 Quick Solution: Make Your App Work on All Devices
+# 🚀 Quick Solution: Make Your App Work on All Devices....
 
 ## Problem
 Your app currently uses `localhost:3001` which only works on the same computer.
