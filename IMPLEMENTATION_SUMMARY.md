@@ -1,4 +1,4 @@
-# Implementation Summary: Removing Dummy Data & Adding Offline Support
+# Implementation Summary: Removing Dummy Data & Adding Offline Support....
 
 ## ✅ Completed Changes
 
